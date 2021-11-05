@@ -11,8 +11,8 @@
   - Nbr = 4
   - dACSubcarrier = 2X0e3;
   - bwChannelAC = {'20MHz',fsAC,dACSubcarrier}
-  ![image](https://user-images.githubusercontent.com/87049112/140466783-6f5e015d-8c4f-458f-bd32-5502499cb6bc.png)
-
+  ![image](https://user-images.githubusercontent.com/87049112/140469489-f3640b7b-7225-4758-8fa5-b53f3b186b66.png)
+  
   input: channel filter
   
   input: DLAC output power
