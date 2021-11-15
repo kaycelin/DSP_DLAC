@@ -55,13 +55,16 @@
 ![image](https://user-images.githubusercontent.com/87049112/140468785-c3480c49-4822-40ff-ac6a-e0d9c328c833.png)
 
 11. Analysis
-  - SNRin vs SNRout     
+  - SNRin vs SNRout
+  - 20211115, picture is NOT correct, xAsis is branches, SNR: 60dB Blue/50dB Orange/40dB Yellow/30dB Purple        
   ![image](https://user-images.githubusercontent.com/87049112/140468894-ef59f3ce-e9ed-4b4b-b57a-9b940d172ad8.png)
 
-  - SNRin vs phaseDriftdeg      
+  - SNRin vs phaseDriftdeg
+  - 20211115, picture is NOT correct, xAsis is branches, SNR: 60dB Blue/50dB Orange/40dB Yellow/30dB Purple      
   ![image](https://user-images.githubusercontent.com/87049112/140468950-adb7d7c0-3bbf-4075-9adf-f8fdac906b09.png)
 
-  - SNRin vs phaseShifterForEQ      
+  - SNRin vs phaseShifterForEQ     
+  - 20211115, picture is NOT correct, xAsis is branches, SNR: 60dB Blue/50dB Orange/40dB Yellow/30dB Purple      
   ![image](https://user-images.githubusercontent.com/87049112/140469046-0355eba4-34be-4bb4-a59c-d8538cb9b0cb.png)
 
   - SNRin vs EVM(DL)      
